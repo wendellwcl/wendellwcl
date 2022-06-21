@@ -1,9 +1,9 @@
 ## Olá, eu sou o Wendell
 
 <div align="center">
-  <a href="https://github.com/wendellwcl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellwcl&show_icons=trueinclude_all_commits=true&count_private=true&bg_color=135DEG,FF4E33,FF8226&title_color=F4F4FA&text_color=F4F4FA&icon_color=212529&border_color=F4F4FA&border_radius=30"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellwcl&layout=compact&langs_count=7&bg_color=135DEG,FF8226,FF4E33&title_color=F4F4FA&text_color=F4F4FA&icon_color=212529&border_color=F4F4FA&border_radius=30"/>    
+  <a href="https://wendellwcl.github.io">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=wendellwcl&show_icons=trueinclude_all_commits=true&count_private=true&bg_color=135DEG,FF4E33,FF8226&title_color=F4F4FA&text_color=F4F4FA&icon_color=212529&border_color=F4F4FA&border_radius=30"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellwcl&layout=compact&langs_count=7&bg_color=135DEG,FF8226,FF4E33&title_color=F4F4FA&text_color=F4F4FA&icon_color=212529&border_color=F4F4FA&border_radius=30"/>    
 </div>
   
 #### Minhas Habilidades
