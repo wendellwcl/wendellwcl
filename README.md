@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://github.com/wendellwcl/wendellwcl/blob/main/assets/wendellwcl.png"/>
+<img align="right" height="500em" src="https://github.com/wendellwcl/wendellwcl/blob/main/wendellwcl.png"/>
 <h1 align="left">Hi 🖐🏼, I'm Wendell 🤙🏼</h1>
 
 ![Static Badge](https://img.shields.io/badge/DEV-Front--End-8c52ff)
