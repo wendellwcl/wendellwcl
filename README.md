@@ -7,9 +7,7 @@
   
 - 🔎 **Open to work**
 
-- 💻 3rd period of **Internet Systems**
-
-- 📕 I'm currently learning **Angular**
+- 📕 4rd period of **Internet Systems**
 
 - ⚡ Fun fact - artist in spare time 🎨
 
