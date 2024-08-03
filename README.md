@@ -29,8 +29,6 @@
 ![Github](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github&logoColor=%23fff)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCode-0076c6?style=for-the-badge&logoColor=%23fff)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff)&nbsp;
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=%23fff)&nbsp;
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=%23fff)&nbsp;
 
 <br><br>
 
