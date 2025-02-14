@@ -7,7 +7,7 @@
   
 - 🔎 **Open to work**
 
-- 📕 4rd period of **Internet Systems**
+- 📕 5rd period of **Internet Systems**
 
 - ⚡ Fun fact - artist in spare time 🎨
 
